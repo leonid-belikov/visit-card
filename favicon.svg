@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
-  <rect width="16" height="16" rx="3" fill="#0b1120"/>
-  <rect x="0.5" y="0.5" width="15" height="15" rx="2.5" fill="none" stroke="#334155"/>
-  <g fill="#60a5fa">
-    <rect x="3" y="4" width="2" height="8"/><rect x="3" y="10" width="4" height="2"/>
-    <rect x="8" y="4" width="2" height="8"/>
-    <rect x="8" y="4" width="4" height="2"/><rect x="11" y="5" width="2" height="2"/>
-    <rect x="8" y="7" width="4" height="2"/><rect x="11" y="8" width="2" height="3"/>
-    <rect x="8" y="10" width="4" height="2"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#0b1120"/>
+  <path fill="#e2e8f0" transform="translate(13.73 93.52) scale(0.08200 -0.08200)" d="M389 0Q307 0 257.5 49.0Q208 98 208 178V617H27V730H333V181Q333 150 350.5 131.5Q368 113 398 113H559V0Z"/>
+  <path fill="#60a5fa" transform="translate(68.67 93.52) scale(0.08200 -0.08200)" d="M350 -10Q292 -10 253.0 19.0Q214 48 199 100V0H77V730H202V576L198 450Q214 502 253.5 531.0Q293 560 350 560Q431 560 480.0 503.0Q529 446 529 349V200Q529 104 479.5 47.0Q430 -10 350 -10ZM303 98Q351 98 377.5 124.0Q404 150 404 204V346Q404 400 377.5 426.0Q351 452 303 452Q255 452 228.5 423.0Q202 394 202 341V209Q202 156 228.5 127.0Q255 98 303 98Z"/>
 </svg>

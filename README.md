@@ -11,7 +11,8 @@ Spotlight radius: `--spot-r` in `styles.css` (default 180px).
 - `index.html` — the page (meta tags, Open Graph, schema.org Person)
 - `main.js` — grid spotlight under the cursor (mouse/trackpad only)
 - `styles.css` — styles (design B "Dark technical", mobile-first breakpoints)
-- `favicon.svg` — favicon
+- `favicon.svg` — favicon ("lb", JetBrains Mono Bold converted to paths, 128×128 canvas)
+- `favicon-128.png` — PNG fallback 128×128
 - `og-image.png` — 1200×630 link preview for Telegram / LinkedIn
 
 ## Local preview
